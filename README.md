@@ -1,3 +1,5 @@
 # Hello Everyone 😏
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/buddhhu/)
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=buddhhu&show_icons=true&count_private=true&theme=dark)
