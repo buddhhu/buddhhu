@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=buddhhu&show_icons=true&count_private=true&locale=en" alt="buddhhu" /></p>
 
-<p align="center">><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu&" alt="buddhhu" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu&" alt="buddhhu" /></p>
 
 <h3 align="center">Connect with me:</h3>
 
