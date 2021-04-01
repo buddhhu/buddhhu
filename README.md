@@ -10,8 +10,6 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu&" alt="buddhhu" /></p>
 
-<p align="center"><img src="https://stars.medv.io/buddhhu/buddhhu.svg", alt="buddhhu" /></p>
-
 <h3 align="center">Connect with me:</h3>
 
 <p align=center>
