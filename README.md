@@ -13,8 +13,8 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align=center>
-<a href="https://t.me/buddhhu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white", alt="buddhhu" /></a>
-<a href="https://www.instagram.com/_itz_._amit_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white", alt="buddhhu_hu" /></a>
-<a href="https://twitter.com/kumar___amit"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white", alt="kumar___amit" /></a>
-<a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white", alt="amitsharma123234@gmail.com" /></a>
+<a href="https://t.me/buddhhu"><img src="assets/tg.png" height=30px width=30px alt="buddhhu" /></a>
+<a href="https://www.instagram.com/_itz_._amit_/"><img src="assets/ig.png" height=30px width=30px alt="buddhhu_hu" /></a>
+<a href="https://twitter.com/kumar___amit"><img src="assets/tw.png" height=30px width=30px alt="kumar___amit" /></a>
+<a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="assets/mail.png" height=30px width=30px alt="amitsharma123234@gmail.com" /></a>
 </p>
