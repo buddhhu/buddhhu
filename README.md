@@ -12,7 +12,12 @@
 
 <h3 align="center">Connect with me:</h3>
 
-<p align=center>
+<h3 align="center">Recent Activities</h3>
+<p align="center">
+<!--START_SECTION:activity-->
+</p>
+
+<p align="center">
 <a href="https://t.me/buddhhu"><img src="assets/tg.png" height=40px width=40px alt="buddhhu" /></a>
 <a href="https://www.instagram.com/_itz_._amit_/"><img src="assets/ig.png" height=40px width=40px alt="buddhhu_hu" /></a>
 <a href="https://twitter.com/kumar___amit"><img src="assets/twtt.png" height=40px width=40px alt="kumar___amit" /></a>
