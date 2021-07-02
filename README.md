@@ -12,11 +12,11 @@
 
 <h3 align="center">Recent Activities</h3>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/bisoncorps/search-engine-parser/pull/148) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
-2. 🗣 Commented on [#3085](https://github.com/LonamiWebs/Telethon/issues/3085) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
-3. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
-4. 💪 Opened PR [#105](https://github.com/TeamUltroid/Ultroid/pull/105) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. ❗️ Opened issue [#4](https://github.com/levina-lab/veez_ultrobot/issues/4) in [levina-lab/veez_ultrobot](https://github.com/levina-lab/veez_ultrobot)
+1. ❗️ Opened issue [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 💪 Opened PR [#148](https://github.com/bisoncorps/search-engine-parser/pull/148) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
+3. 🗣 Commented on [#3085](https://github.com/LonamiWebs/Telethon/issues/3085) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
+4. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
+5. 💪 Opened PR [#105](https://github.com/TeamUltroid/Ultroid/pull/105) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
