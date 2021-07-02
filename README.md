@@ -11,7 +11,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu" alt="buddhhu" /></p>
 
 <h3 align="center">Recent Activities</h3>
-<div align="center" markdown="1">
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#148](https://github.com/bisoncorps/search-engine-parser/pull/148) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
 2. 🗣 Commented on [#3085](https://github.com/LonamiWebs/Telethon/issues/3085) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
@@ -19,7 +18,6 @@
 4. 💪 Opened PR [#105](https://github.com/TeamUltroid/Ultroid/pull/105) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 5. ❗️ Opened issue [#4](https://github.com/levina-lab/veez_ultrobot/issues/4) in [levina-lab/veez_ultrobot](https://github.com/levina-lab/veez_ultrobot)
 <!--END_SECTION:activity-->
-</div>
 
 <h3 align="center">Connect with me:</h3>
 
