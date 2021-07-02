@@ -23,8 +23,9 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://t.me/buddhhu"><img src="assets/tg.png" height=40px width=40px alt="buddhhu" /></a>
-<a href="https://www.instagram.com/_itz_._amit_/"><img src="assets/ig.png" height=40px width=40px alt="buddhhu_hu" /></a>
-<a href="https://twitter.com/kumar___amit"><img src="assets/twtt.png" height=40px width=40px alt="kumar___amit" /></a>
-<a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="assets/mail.png" height=40px width=40px alt="amitsharma123234@gmail.com" /></a>
+<a href="https://t.me/buddhhu"><img src="assets/tg.png" height=40px width=40px alt="buddhhu"></img></a>
+<a href="https://www.instagram.com/_itz_._amit_/"><img src="assets/ig.png" height=40px width=40px alt="buddhhu_hu"></img></a>
+<a href="https://twitter.com/kumar___amit"><img src="assets/twtt.png" height=40px width=40px alt="kumar___amit"></img></a>
+<a href="https://www.facebook.com/profile.php?id=100007712795589"><img src="assets/fb.png" height=40px weight=40px alt="Amit Sharma"></img></a>
+<a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="assets/mail.png" height=40px width=40px alt="amitsharma123234@gmail.com"></img></a>
 </p>
