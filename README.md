@@ -10,12 +10,12 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu&" alt="buddhhu" /></p>
 
-<h3 align="center">Connect with me:</h3>
-
 <h3 align="center">Recent Activities</h3>
 <p align="center">
 <!--START_SECTION:activity-->
 </p>
+
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
 <a href="https://t.me/buddhhu"><img src="assets/tg.png" height=40px width=40px alt="buddhhu" /></a>
