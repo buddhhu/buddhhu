@@ -6,7 +6,7 @@
 
 <p align="center"><img src="assets/languages.svg" alt="buddhhu" /></p>
 
-<p align="center"><img src="assets/" alt="buddhhu" /></p>
+<p align="center"><img src="assets/overview.svg" alt="buddhhu" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu" alt="buddhhu" /></p>
 
