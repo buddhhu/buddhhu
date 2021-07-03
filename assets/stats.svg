@@ -16,7 +16,7 @@ svg {
   height: calc(100% - 10px);
   fill: white;
   stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
+  stroke-width: 2px;
   rx: 6px;
   ry: 6px;
 }
@@ -213,7 +213,7 @@ svg {
   height: calc(100% - 10px);
   fill: white;
   stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
+  stroke-width: 2px;
   rx: 6px;
   ry: 6px;
 }
