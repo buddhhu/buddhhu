@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 
-<iframe src="assets/sticker.html" seamless></iframe>
+<iframe src="assets/sticker.html"></iframe>
 
 <h3 align="center">Languages and Tools:</h3>
 
