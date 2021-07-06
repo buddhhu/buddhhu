@@ -13,11 +13,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#107](https://github.com/martyzz1/heroku3.py/pull/107) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
-2. ❌ Closed PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
-3. 💪 Opened PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
-4. 🗣 Commented on [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
-5. ❗️ Opened issue [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+1. ❗️ Closed issue [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+2. 💪 Opened PR [#107](https://github.com/martyzz1/heroku3.py/pull/107) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+3. ❌ Closed PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+4. 💪 Opened PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+5. 🗣 Commented on [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
