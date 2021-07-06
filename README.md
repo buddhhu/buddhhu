@@ -13,11 +13,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
-2. ❗️ Opened issue [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-3. 💪 Opened PR [#148](https://github.com/bisoncorps/search-engine-parser/pull/148) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
-4. 🗣 Commented on [#3085](https://github.com/LonamiWebs/Telethon/issues/3085) in [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon)
-5. 🗣 Commented on [#143](https://github.com/bisoncorps/search-engine-parser/issues/143) in [bisoncorps/search-engine-parser](https://github.com/bisoncorps/search-engine-parser)
+1. 💪 Opened PR [#107](https://github.com/martyzz1/heroku3.py/pull/107) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+2. ❌ Closed PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+3. 💪 Opened PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+4. 🗣 Commented on [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+5. ❗️ Opened issue [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
