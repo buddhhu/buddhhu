@@ -13,7 +13,7 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+1. ❗️ Opened issue [#3](https://github.com/TechiError/ultroid-cred-example/issues/3) in [TechiError/ultroid-cred-example](https://github.com/TechiError/ultroid-cred-example)
 2. 💪 Opened PR [#107](https://github.com/martyzz1/heroku3.py/pull/107) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
 3. ❌ Closed PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
 4. 💪 Opened PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
