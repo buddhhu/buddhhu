@@ -13,10 +13,10 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/psf/black/issues/108) in [psf/black](https://github.com/psf/black)
-2. 💪 Opened PR [#107](https://github.com/martyzz1/heroku3.py/pull/107) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
-3. ❌ Closed PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
-4. 💪 Opened PR [#106](https://github.com/martyzz1/heroku3.py/pull/106) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
+1. 🗣 Commented on [#2403](https://github.com/psf/black/issues/2403) in [psf/black](https://github.com/psf/black)
+2. 🗣 Commented on [#108](https://github.com/psf/black/issues/108) in [psf/black](https://github.com/psf/black)
+3. ❗️ Opened issue [#2403](https://github.com/psf/black/issues/2403) in [psf/black](https://github.com/psf/black)
+4. 🗣 Commented on [#108](https://github.com/psf/black/issues/108) in [psf/black](https://github.com/psf/black)
 5. 🗣 Commented on [#105](https://github.com/martyzz1/heroku3.py/issues/105) in [martyzz1/heroku3.py](https://github.com/martyzz1/heroku3.py)
 <!--END_SECTION:activity-->
 
