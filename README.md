@@ -8,8 +8,6 @@
 
 <p align="center"><img src="assets/stats.svg" alt="buddhhu" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhhu" alt="buddhhu" /></p>
-
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
