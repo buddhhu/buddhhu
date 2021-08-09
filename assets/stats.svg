@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Created with svg_stack (http://github.com/astraw/svg_stack) -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="360.0" height="430.0" style="border: 5px solid rgba(0, 0, 0, 0.5)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="360.0" height="430.0" stroke="rgba(0, 0, 0, 0.5)" stroke-width="5">
   <defs/>
   <g id="id0:id0" transform="translate(0.0,0.0)"><style>
 svg {
