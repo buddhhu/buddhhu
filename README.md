@@ -11,8 +11,8 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/jamesgeorge007/github-activity-readme/issues/61) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🗣 Commented on [#132](https://github.com/TeamUltroid/Ultroid/issues/132) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#84](https://github.com/TeamUltroid/UltroidAddons/issues/84) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 3. 🗣 Commented on [#132](https://github.com/TeamUltroid/Ultroid/issues/132) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 4. 🗣 Commented on [#132](https://github.com/TeamUltroid/Ultroid/issues/132) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 5. ❌ Closed PR [#1](https://github.com/TeamUltroid/Ultroid-Docs/pull/1) in [TeamUltroid/Ultroid-Docs](https://github.com/TeamUltroid/Ultroid-Docs)
