@@ -11,9 +11,9 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/TeamUltroid/pyUltroid/issues/34) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-2. 🗣 Commented on [#88](https://github.com/TeamUltroid/UltroidAddons/issues/88) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-3. 🗣 Commented on [#175](https://github.com/TeamUltroid/Ultroid/issues/175) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#89](https://github.com/TeamUltroid/UltroidAddons/issues/89) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+2. 🗣 Commented on [#34](https://github.com/TeamUltroid/pyUltroid/issues/34) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+3. 🗣 Commented on [#88](https://github.com/TeamUltroid/UltroidAddons/issues/88) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 4. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 5. 🗣 Commented on [#84](https://github.com/TeamUltroid/UltroidAddons/issues/84) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 <!--END_SECTION:activity-->
