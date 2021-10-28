@@ -11,11 +11,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/TeamUltroid/UltroidAddons/issues/89) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-2. 🗣 Commented on [#34](https://github.com/TeamUltroid/pyUltroid/issues/34) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-3. 🗣 Commented on [#88](https://github.com/TeamUltroid/UltroidAddons/issues/88) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-4. 🗣 Commented on [#177](https://github.com/TeamUltroid/Ultroid/issues/177) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-5. 🗣 Commented on [#84](https://github.com/TeamUltroid/UltroidAddons/issues/84) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+1. 🗣 Commented on [#190](https://github.com/TeamUltroid/Ultroid/issues/190) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
+3. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
+4. ❗️ Opened issue [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
+5. 🗣 Commented on [#89](https://github.com/TeamUltroid/UltroidAddons/issues/89) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
