@@ -11,11 +11,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/TeamUltroid/Ultroid/issues/190) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
+1. ❗️ Closed issue [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
+2. 🗣 Commented on [#190](https://github.com/TeamUltroid/Ultroid/issues/190) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 3. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
-4. ❗️ Opened issue [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
-5. 🗣 Commented on [#89](https://github.com/TeamUltroid/UltroidAddons/issues/89) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+4. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
+5. ❗️ Opened issue [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
