@@ -11,7 +11,7 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/TeamUltroid/Ultroid/issues/190) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🎉 Merged PR [#91](https://github.com/TeamUltroid/UltroidAddons/pull/91) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 2. ❗️ Closed issue [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
 3. 🗣 Commented on [#190](https://github.com/TeamUltroid/Ultroid/issues/190) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 4. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
