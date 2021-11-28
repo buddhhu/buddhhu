@@ -11,10 +11,10 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/TeamUltroid/pyUltroid/issues/36) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-2. 🗣 Commented on [#215](https://github.com/TeamUltroid/Ultroid/issues/215) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🗣 Commented on [#215](https://github.com/TeamUltroid/Ultroid/issues/215) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. 🎉 Merged PR [#91](https://github.com/TeamUltroid/UltroidAddons/pull/91) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+1. 🗣 Commented on [#222](https://github.com/TeamUltroid/Ultroid/issues/222) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🗣 Commented on [#222](https://github.com/TeamUltroid/Ultroid/issues/222) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 🗣 Commented on [#222](https://github.com/TeamUltroid/Ultroid/issues/222) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#36](https://github.com/TeamUltroid/pyUltroid/issues/36) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
 5. 🗣 Commented on [#1](https://github.com/meanii/sessionMaker/issues/1) in [meanii/sessionMaker](https://github.com/meanii/sessionMaker)
 <!--END_SECTION:activity-->
 
