@@ -11,11 +11,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/TeamUltroid/UltroidAddons/pull/97) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-2. 🎉 Merged PR [#40](https://github.com/TeamUltroid/pyUltroid/pull/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-3. ❌ Closed PR [#30440](https://github.com/ytdl-org/youtube-dl/pull/30440) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-4. 🗣 Commented on [#30440](https://github.com/ytdl-org/youtube-dl/issues/30440) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-5. 💪 Opened PR [#30440](https://github.com/ytdl-org/youtube-dl/pull/30440) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+1. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+2. 🎉 Merged PR [#97](https://github.com/TeamUltroid/UltroidAddons/pull/97) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+3. 🎉 Merged PR [#40](https://github.com/TeamUltroid/pyUltroid/pull/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+4. ❌ Closed PR [#30440](https://github.com/ytdl-org/youtube-dl/pull/30440) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+5. 🗣 Commented on [#30440](https://github.com/ytdl-org/youtube-dl/issues/30440) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
