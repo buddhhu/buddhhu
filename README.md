@@ -6,11 +6,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-3. 🎉 Merged PR [#97](https://github.com/TeamUltroid/UltroidAddons/pull/97) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-4. 🎉 Merged PR [#40](https://github.com/TeamUltroid/pyUltroid/pull/40) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
-5. ❌ Closed PR [#30440](https://github.com/ytdl-org/youtube-dl/pull/30440) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+1. 🎉 Merged PR [#1](https://github.com/buddhhu/Redis-Database-Manager/pull/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
+2. 🗣 Commented on [#1](https://github.com/buddhhu/Redis-Database-Manager/issues/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
+3. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. 🎉 Merged PR [#97](https://github.com/TeamUltroid/UltroidAddons/pull/97) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
