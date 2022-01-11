@@ -1,8 +1,23 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <p align="center"><img src="assets/tg_dp.png" alt="buddhhu" /></p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a></p>
+
+---
+
+<h3 align="center">Profile Stats</h3>
 <p align="center"><img src="assets/stats.svg" alt="buddhhu" /></p>
+
+---
+
+<h3 align="center">Open-Source Projects</h3>
+<p align="center">
+1. <a href=https://github.com/buddhhu/PasteBin-Bot>Pastebin-Bot</a><br>
+2. <a href=https://github.com/buddhhu/Redis-Database-Manager>Redis Database Manager</a>
+</p>
+<h3 align="center">Team Project</h3>
+<p align="center">
+1. <a href=https://github.com/TeamUltroid/Ultroid>Ultroid</a><br>
+2. <a href=https://github.com/TeamUltroid/pyUltroid>py-Ultroid</a>
+</p>
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
