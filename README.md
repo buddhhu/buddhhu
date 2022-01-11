@@ -6,10 +6,10 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30489](https://github.com/ytdl-org/youtube-dl/issues/30489) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-2. 🎉 Merged PR [#1](https://github.com/buddhhu/Redis-Database-Manager/pull/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
-3. 🗣 Commented on [#1](https://github.com/buddhhu/Redis-Database-Manager/issues/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
-4. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🗣 Commented on [#101](https://github.com/TeamUltroid/UltroidAddons/issues/101) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+2. ❗️ Opened issue [#30489](https://github.com/ytdl-org/youtube-dl/issues/30489) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
+3. 🎉 Merged PR [#1](https://github.com/buddhhu/Redis-Database-Manager/pull/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
+4. 🗣 Commented on [#1](https://github.com/buddhhu/Redis-Database-Manager/issues/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
 5. 🗣 Commented on [#247](https://github.com/TeamUltroid/Ultroid/issues/247) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
 <!--END_SECTION:activity-->
 
