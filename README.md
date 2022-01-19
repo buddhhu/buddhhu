@@ -21,11 +21,11 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/titanscoder/TITANS-CHIKU/pull/2) in [titanscoder/TITANS-CHIKU](https://github.com/titanscoder/TITANS-CHIKU)
-2. 🗣 Commented on [#101](https://github.com/TeamUltroid/UltroidAddons/issues/101) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
-3. ❗️ Opened issue [#30489](https://github.com/ytdl-org/youtube-dl/issues/30489) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
-4. 🎉 Merged PR [#1](https://github.com/buddhhu/Redis-Database-Manager/pull/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
-5. 🗣 Commented on [#1](https://github.com/buddhhu/Redis-Database-Manager/issues/1) in [buddhhu/Redis-Database-Manager](https://github.com/buddhhu/Redis-Database-Manager)
+1. 🎉 Merged PR [#50](https://github.com/TeamUltroid/pyUltroid/pull/50) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+2. 🗣 Commented on [#254](https://github.com/TeamUltroid/Ultroid/issues/254) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+3. 💪 Opened PR [#2](https://github.com/titanscoder/TITANS-CHIKU/pull/2) in [titanscoder/TITANS-CHIKU](https://github.com/titanscoder/TITANS-CHIKU)
+4. 🗣 Commented on [#101](https://github.com/TeamUltroid/UltroidAddons/issues/101) in [TeamUltroid/UltroidAddons](https://github.com/TeamUltroid/UltroidAddons)
+5. ❗️ Opened issue [#30489](https://github.com/ytdl-org/youtube-dl/issues/30489) in [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)
 <!--END_SECTION:activity-->
 
 <h3 align="center">Connect with me:</h3>
