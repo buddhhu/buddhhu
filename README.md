@@ -11,7 +11,8 @@
 <h3 align="center">Open-Source Projects</h3>
 <p align="center">
 1. <a href=https://github.com/buddhhu/PasteBin-Bot>Pastebin-Bot</a><br>
-2. <a href=https://github.com/buddhhu/Redis-Database-Manager>Redis Database Manager</a>
+2. <a href=https://github.com/buddhhu/Redis-Database-Manager>Redis Database Manager</a><br>
+3. <a href=https://github.com/buddhhu/YT-Channel-Download>YT-Channel-Download</a>
 </p>
 <h3 align="center">Team Project</h3>
 <p align="center">
