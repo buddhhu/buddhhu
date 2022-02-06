@@ -22,10 +22,10 @@
 <h3 align="center">Recent Activities</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2553](https://github.com/yt-dlp/yt-dlp/issues/2553) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-2. ❗️ Opened issue [#2553](https://github.com/yt-dlp/yt-dlp/issues/2553) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-3. ❗️ Opened issue [#878](https://github.com/pyrogram/pyrogram/issues/878) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
-4. ❌ Closed PR [#257](https://github.com/TeamUltroid/Ultroid/pull/257) in [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+1. 🎉 Merged PR [#51](https://github.com/TeamUltroid/pyUltroid/pull/51) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
+2. 🗣 Commented on [#2553](https://github.com/yt-dlp/yt-dlp/issues/2553) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+3. ❗️ Opened issue [#2553](https://github.com/yt-dlp/yt-dlp/issues/2553) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+4. ❗️ Opened issue [#878](https://github.com/pyrogram/pyrogram/issues/878) in [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram)
 5. 🎉 Merged PR [#50](https://github.com/TeamUltroid/pyUltroid/pull/50) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
 <!--END_SECTION:activity-->
 
