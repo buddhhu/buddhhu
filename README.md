@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <p align="center"><img src="assets/tg_dp.png" alt="buddhhu" /></p>
+<h4 align="center">Note:- The above picture is automatically generated from <a href=https://t.me/its_buddhhu>here</a>. Don't get offended.</h4>
 
 ---
 
@@ -10,14 +11,18 @@
 
 <h3 align="center">Open-Source Projects</h3>
 <p align="center">
+<b>
 1. <a href=https://github.com/buddhhu/PasteBin-Bot>Pastebin-Bot</a><br>
 2. <a href=https://github.com/buddhhu/Redis-Database-Manager>Redis Database Manager</a><br>
-3. <a href=https://github.com/buddhhu/YT-Channel-Download>YT-Channel-Download</a>
+3. <a href=https://github.com/buddhhu/YT-Channel-Download>YT-Channel-Download</a><br>
+</b>
 </p>
 <h3 align="center">Team Project</h3>
 <p align="center">
+<b>
 1. <a href=https://github.com/TeamUltroid/Ultroid>Ultroid</a><br>
-2. <a href=https://github.com/TeamUltroid/pyUltroid>py-Ultroid</a>
+2. <a href=https://github.com/TeamUltroid/pyUltroid>py-Ultroid</a><br>
+</b>
 </p>
 <h3 align="center">Recent Activities</h3>
 
