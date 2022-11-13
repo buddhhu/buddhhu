@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<p align="center"><img src="assets/tg_dp.png" alt="buddhhu" /></p>
-<h4 align="center">Note:- The above picture is automatically generated from <a href=https://t.me/its_buddhhu>here</a>. Don't get offended.</h4>
-
 ---
 
 <h3 align="center">Profile Stats</h3>
-<p align="center"><img src="assets/stats.svg" alt="buddhhu" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=buddhhu&show_icons=true&theme=transparent" /></p>
 
 ---
 
@@ -27,7 +24,8 @@
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
-<a href="https://t.me/its_buddhhu"><img src="assets/tg.png" height=40px width=40px alt="buddhhu" /></a>
-<a href="https://twitter.com/kumar___amit"><img src="assets/twtt.png" height=40px width=40px alt="kumar___amit" /></a>
-<a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="assets/mail.png" height=40px width=40px alt="amitsharma123234@gmail.com" /></a>
+<a href="https://t.me/its_buddhhu"><img src="https://simpleicons.org/icons/telegram.svg" height=40px width=40px alt="buddhhu" /></a>
+<a href="https://instagram.com/buddhhu.ig"><img src="https://simpleicons.org/icons/instagram.svg" height=40px width=40px alt="buddhhu.ig" /></a>
+<a href="https://twitter.com/__kumar__amit"><img src="https://simpleicons.org/icons/twitter.svg" height=40px width=40px alt="__kumar__amit" /></a>
+<a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height=40px width=40px alt="amitsharma123234@gmail.com" /></a>
 </p>
