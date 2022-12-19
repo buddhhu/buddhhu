@@ -22,6 +22,9 @@
 </b>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://t.me/its_buddhhu"><img src="https://simpleicons.org/icons/telegram.svg" height=40px width=40px alt="buddhhu" /></a>
