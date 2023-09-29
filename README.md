@@ -44,3 +44,5 @@ Text               2 hrs 33 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://twitter.com/__kumar__amit"><img src="https://simpleicons.org/icons/twitter.svg" height=40px width=40px alt="__kumar__amit" /></a>
 <a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height=40px width=40px alt="amitsharma123234@gmail.com" /></a>
 </p>
+
+[![An image of @buddhhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/buddhhu)](https://holopin.io/@buddhhu)
