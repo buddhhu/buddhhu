@@ -44,3 +44,9 @@ JSON               4 hrs 14 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="https://twitter.com/__kumar__amit"><img src="https://simpleicons.org/icons/twitter.svg" height=40px width=40px alt="__kumar__amit" /></a>
 <a href="https://mail.google.com/mail/u/?authuser=amitsharma123234@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height=40px width=40px alt="amitsharma123234@gmail.com" /></a>
 </p>
+
+<h3 align="center">Donate</h3>
+<p>
+- Bitcoin - <code>1PmFQZ2DzfEtt7c3Az7AtPyd2LYofjwv4J</code> (Blockchain - Bitcoin)<br>
+- Ethereum - <code>1PmFQZ2DzfEtt7c3Az7AtPyd2LYofjwv4J</code> (Blockchain - Ethereum)
+</p>
