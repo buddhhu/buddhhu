@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buddhhu&style=for-the-badge&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=amitkr-codes&style=for-the-badge&color=orange" />
 </p>
 
 <p align="center">
@@ -121,16 +121,16 @@
 
 <p align="center">
 <p align="center">
-  <a href="https://github.com/buddhhu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buddhhu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/amitkr-codes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitkr-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/buddhhu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhhu&layout=compact&theme=tokyonight&langs_count=6"/>
+  <a href="https://github.com/amitkr-codes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkr-codes&layout=compact&theme=tokyonight&langs_count=6"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buddhhu&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitkr-codes&theme=tokyonight" />
 </p>
 </p>
 
@@ -144,13 +144,13 @@
 |---------|-------------|------------|
 | 🧠 **[Smart Helmet Detection](#)** | Real-time helmet detection system for workplace safety compliance | `YOLOv5` `OpenCV` `TensorFlow` `Flask` |
 | 📈 **[Crypto Price Predictor](#)** | ML-powered cryptocurrency price forecasting with historical analysis | `Python` `PyTorch` `Pandas` `FastAPI` |
-| 📱 **[QR Wizard App](https://github.com/buddhhu/qr-wizard)** | Feature-rich QR code generator & scanner with custom designs | `Flutter` `Dart` `Firebase` `Provider` |
+| 📱 **[QR Wizard App](https://github.com/amitkr-codes/qr-wizard)** | Feature-rich QR code generator & scanner with custom designs | `Flutter` `Dart` `Firebase` `Provider` |
 | 🧰 **[Web Automation Toolkit](#)** | Comprehensive web scraping & automation solution for businesses | `Python` `Selenium` `Playwright` `MongoDB` |
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/buddhhu?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-gold?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/amitkr-codes?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-gold?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
@@ -158,7 +158,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/buddhhu/buddhhu/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/amitkr-codes/amitkr-codes/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
